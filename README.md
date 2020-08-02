@@ -7,7 +7,7 @@
 
 > A web panel for el-bot.
 
-Deving...
+## 由于 mirai 已经跑路，本项目将停止维护。
 
 ## Build Setup
 
